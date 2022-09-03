@@ -1,0 +1,15 @@
+body{
+    max-width: 1000px;
+    background-color: rgb(239, 241, 235);
+    width: 100%;
+    margin: 0 auto;
+}
+
+h2 {color: rgb(147, 136, 199);}
+h1{color: rgb(152, 154, 212);font-size: large;}
+li{list-style: lower-greek;}
+h3{color: rgb(162, 158, 221);}
+h4{color: rgb(174, 148, 211);}
+
+.graa {background-color: rgb(179, 179, 179);}
+
